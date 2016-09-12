@@ -1,0 +1,5 @@
+* TRIVIAL CLI
+Trivial cli is super simple cli implementation for embedded systems.
+
+How to use it is shown in main.c file. To use it in your system you
+need to implement 2 functions: getchar and putchar...
